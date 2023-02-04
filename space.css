@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Amatic SC';
+    src: url('./AmaticSC-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Amatic SC';
+    src: url('./AmaticSC-Bold.ttf');
+    font-weight: bold;
+}
+
+body {
+    background: rgb(95, 95, 255);
+    font-family: Arvo;
+}
+
+h2 {
+    background:black;
+    color:white;
+    font-family: Amatic SC;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.welcome {
+    color:aquamarine;
+}
