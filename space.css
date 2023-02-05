@@ -9,19 +9,29 @@
     font-weight: bold;
 }
 
+@font-face {
+    font-family: 'Arvo';
+    src: url('./Arvo-Regular.ttf');
+}
+
 body {
     background: rgb(95, 95, 255);
     font-family: Arvo;
 }
 
-h2 {
-    background:black;
-    color:white;
+h1 {
+    background:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     font-family: Amatic SC;
-    padding-right: 100px;
-    padding-left: 100px;
+    text-align: center;
 }
 
 .welcome {
-    color:aquamarine;
+    font-size: 5em;
+    color: aquamarine;
+    text-align: center;
+}
+
+.spacelink {
+    color: pink;
 }
