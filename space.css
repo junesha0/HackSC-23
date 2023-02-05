@@ -40,6 +40,7 @@ h1 {
     transition: 1s ease;
 }
 
+
 .grow img:hover {
     -webkit-transform:scale(1.2);
     -ms-transform:scale(1.2);
@@ -71,6 +72,9 @@ h1 {
   
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #A020F0;
     color: white;
 }
+
+
+
