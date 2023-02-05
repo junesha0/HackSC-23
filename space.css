@@ -108,6 +108,9 @@ h1 {
     column-gap:5px;
  }
 
+/* thank you to https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea
+for help on the column gallery spacing */
+
  .gallery img {
     width: 100% !important;
     height: auto !important;
@@ -151,4 +154,5 @@ h1 {
      column-count:         1;
     }
  }
+
 
